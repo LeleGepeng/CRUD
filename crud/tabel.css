@@ -1,0 +1,22 @@
+* {
+  color: #160101;
+}
+
+tr {
+  background-color: #0084ff;
+}
+td {
+  color: black;
+}
+#btnedit {
+  color: #fff;
+  background-color: #0084ff;
+  padding: 5px 16px;
+  border-radius: 6px;
+}
+#btndelete {
+  color: #fff;
+  background-color: #ff0000;
+  border-radius: 6px;
+  padding: 5px 16px;
+}
